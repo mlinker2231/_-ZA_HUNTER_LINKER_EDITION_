@@ -2,6 +2,14 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>lmao please let me use this</string>
+	<key>NSLocationUsageDescription</key>
+	<string>Lemme use this please sir</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>I need to use this sir</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Let me ue this</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleExecutable</key>
